@@ -1,5 +1,7 @@
 # Devboard
 a devboard i hacked together with minimal sleep
+total jlcpcb cost $38.9 (including local taxes and shipping)
+5pcs pcb and 2pcs pcba
 
 # BOM is the Devboard.csv file
 
