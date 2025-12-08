@@ -1,7 +1,7 @@
 # Devboard
 a devboard i hacked together with minimal sleep
 
-total jlcpcb cost $38.9 (including local taxes and shipping)
+total jlcpcb cost $28.7 (including local taxes and shipping)
 
 5pcs pcb and 2pcs pcba
 
@@ -16,6 +16,11 @@ similar pinout as raspberry pi pico, but with the gpio 25 broken out, trading a 
 power pins moved to the top right of the board in a group, both vbus and 3v3
 
 # Screenshots
+## checkout (excluding tax)
+<img width="2117" height="870" alt="image" src="https://github.com/user-attachments/assets/0dcd53da-2c0b-46fb-b123-187734351d9d" />
+## checkout (with tax)
+<img width="788" height="788" alt="image" src="https://github.com/user-attachments/assets/f5d37911-4f9d-4e5f-8055-cfe135629e1e" />
+
 
 ## PCB Final
 <img width="685" height="1393" alt="image" src="https://github.com/user-attachments/assets/f35fd7fe-dfa2-4ed2-8ede-b536987db6bc" />
