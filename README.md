@@ -18,6 +18,7 @@ power pins moved to the top right of the board in a group, both vbus and 3v3
 # Screenshots
 ## checkout (excluding tax)
 <img width="2117" height="870" alt="image" src="https://github.com/user-attachments/assets/0dcd53da-2c0b-46fb-b123-187734351d9d" />
+
 ## checkout (with tax)
 <img width="788" height="788" alt="image" src="https://github.com/user-attachments/assets/f5d37911-4f9d-4e5f-8055-cfe135629e1e" />
 
